@@ -6,7 +6,7 @@
     "leeftijd": 66,
     "actief": true,
     "geboortedatum": "1958-04-17",
-    "profielfoto": "https://voorbeeld.com/brussel/atomium.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/1.jpg",
     "status": "architectonisch icoon",
     "hobby's": ["fotograferen", "toerisme"],
     "locatie": {
@@ -40,7 +40,7 @@
     "leeftijd": 219,
     "actief": true,
     "geboortedatum": "1904-05-23",
-    "profielfoto": "https://voorbeeld.com/brussel/koninklijk_paleis.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/3.jpg",
     "status": "koninklijke residentie",
     "hobby's": ["koningshuizen bezoeken"],
     "locatie": {
@@ -57,7 +57,7 @@
     "leeftijd": 35,
     "actief": true,
     "geboortedatum": "1984-06-02",
-    "profielfoto": "https://voorbeeld.com/brussel/magritte_museum.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/4.jpg",
     "status": "kunstmuseum",
     "hobby's": ["kunst appreciëren", "culturele uitstapjes"],
     "locatie": {
@@ -74,7 +74,7 @@
     "leeftijd": 194,
     "actief": true,
     "geboortedatum": "1831-05-06",
-    "profielfoto": "https://voorbeeld.com/brussel/brussels_park.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/5.jpg",
     "status": "openbaar park",
     "hobby's": ["picknicken", "wandelen"],
     "locatie": {
@@ -91,7 +91,7 @@
     "leeftijd": 11,
     "actief": true,
     "geboortedatum": "2011-10-14",
-    "profielfoto": "https://voorbeeld.com/brussel/parlementarium.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/6.jpg",
     "status": "bezoekerscentrum",
     "hobby's": ["politiek begrijpen", "Europese instellingen verkennen"],
     "locatie": {
@@ -108,7 +108,7 @@
     "leeftijd": 33,
     "actief": true,
     "geboortedatum": "1991-10-06",
-    "profielfoto": "https://voorbeeld.com/brussel/stripmuseum.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/7.jpg",
     "status": "stripmuseum",
     "hobby's": ["strips lezen", "stripkunst ontdekken"],
     "locatie": {
@@ -125,7 +125,7 @@
     "leeftijd": 145,
     "actief": true,
     "geboortedatum": "1879-10-01",
-    "profielfoto": "https://voorbeeld.com/brussel/zuidstation.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/8.jpg",
     "status": "treinstation",
     "hobby's": ["treinreizen", "architectuur bewonderen"],
     "locatie": {
@@ -142,7 +142,7 @@
     "leeftijd": 221,
     "actief": true,
     "geboortedatum": "1801-11-28",
-    "profielfoto": "https://voorbeeld.com/brussel/kmskb.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/9.jpg",
     "status": "kunstmuseum",
     "hobby's": ["kunst bekijken", "cultuur waarderen"],
     "locatie": {
@@ -159,7 +159,7 @@
     "leeftijd": 31,
     "actief": true,
     "geboortedatum": "1993-06-15",
-    "profielfoto": "https://voorbeeld.com/brussel/mini_europa.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/10.jpg",
     "status": "toeristische attractie",
     "hobby's": ["miniaturen bewonderen", "toerisme"],
     "locatie": {
