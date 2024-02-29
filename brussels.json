@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "naam": "Atomium",
+    "beschrijving": "Een monument dat gebouwd is voor de Wereldtentoonstelling van 1958.",
+    "leeftijd": 66,
+    "actief": true,
+    "geboortedatum": "1958-04-17",
+    "profielfoto": "https://voorbeeld.com/brussel/atomium.jpg",
+    "status": "architectonisch icoon",
+    "hobby's": ["fotograferen", "toerisme"],
+    "locatie": {
+      "id": 101,
+      "adres": "Square de l'Atomium, 1020 Bruxelles, Belgium",
+      "latitude": 50.8949,
+      "longitude": 4.3416
+    }
+  },
+  {
+    "id": 2,
+    "naam": "Grote Markt",
+    "beschrijving": "Een historisch plein in het centrum van Brussel, omgeven door prachtige gildehuizen.",
+    "leeftijd": 0.5,
+    "actief": true,
+    "geboortedatum": "2023-01-01",
+    "profielfoto": "https://voorbeeld.com/brussel/grote_markt.jpg",
+    "status": "historisch plein",
+    "hobby's": ["rondwandelen", "historie ontdekken"],
+    "locatie": {
+      "id": 102,
+      "adres": "Grand Place, 1000 Bruxelles, Belgium",
+      "latitude": 50.8467,
+      "longitude": 4.3525
+    }
+  },
+  {
+    "id": 3,
+    "naam": "Koninklijk Paleis van Brussel",
+    "beschrijving": "De officiële residentie van de Belgische koning in de hoofdstad Brussel.",
+    "leeftijd": 219,
+    "actief": true,
+    "geboortedatum": "1904-05-23",
+    "profielfoto": "https://voorbeeld.com/brussel/koninklijk_paleis.jpg",
+    "status": "koninklijke residentie",
+    "hobby's": ["koningshuizen bezoeken"],
+    "locatie": {
+      "id": 103,
+      "adres": "Place des Palais, 1000 Bruxelles, Belgium",
+      "latitude": 50.8430,
+      "longitude": 4.3626
+    }
+  },
+  {
+    "id": 4,
+    "naam": "Magrittemuseum",
+    "beschrijving": "Een museum gewijd aan het werk van de Belgische surrealistische kunstenaar René Magritte.",
+    "leeftijd": 35,
+    "actief": true,
+    "geboortedatum": "1984-06-02",
+    "profielfoto": "https://voorbeeld.com/brussel/magritte_museum.jpg",
+    "status": "kunstmuseum",
+    "hobby's": ["kunst appreciëren", "culturele uitstapjes"],
+    "locatie": {
+      "id": 104,
+      "adres": "Koningsplein 1, 1000 Brussel, Belgium",
+      "latitude": 50.8411,
+      "longitude": 4.3547
+    }
+  },
+  {
+    "id": 5,
+    "naam": "Brussels Park",
+    "beschrijving": "Een centraal gelegen openbaar park in Brussel, omgeven door historische gebouwen.",
+    "leeftijd": 194,
+    "actief": true,
+    "geboortedatum": "1831-05-06",
+    "profielfoto": "https://voorbeeld.com/brussel/brussels_park.jpg",
+    "status": "openbaar park",
+    "hobby's": ["picknicken", "wandelen"],
+    "locatie": {
+      "id": 105,
+      "adres": "1000 Brussel, Belgium",
+      "latitude": 50.8431,
+      "longitude": 4.3622
+    }
+  },
+  {
+    "id": 6,
+    "naam": "Parlementarium",
+    "beschrijving": "Het bezoekerscentrum van het Europees Parlement, gelegen in het Europees kwartier.",
+    "leeftijd": 11,
+    "actief": true,
+    "geboortedatum": "2011-10-14",
+    "profielfoto": "https://voorbeeld.com/brussel/parlementarium.jpg",
+    "status": "bezoekerscentrum",
+    "hobby's": ["politiek begrijpen", "Europese instellingen verkennen"],
+    "locatie": {
+      "id": 106,
+      "adres": "Rue Wiertz 60, 1047 Bruxelles, Belgium",
+      "latitude": 50.8392,
+      "longitude": 4.3740
+    }
+  },
+  {
+    "id": 7,
+    "naam": "Belgisch Stripmuseum",
+    "beschrijving": "Een museum gewijd aan de Belgische stripkunst, gevestigd in een art-nouveaugebouw.",
+    "leeftijd": 33,
+    "actief": true,
+    "geboortedatum": "1991-10-06",
+    "profielfoto": "https://voorbeeld.com/brussel/stripmuseum.jpg",
+    "status": "stripmuseum",
+    "hobby's": ["strips lezen", "stripkunst ontdekken"],
+    "locatie": {
+      "id": 107,
+      "adres": "Rue des Sables 20, 1000 Bruxelles, Belgium",
+      "latitude": 50.8533,
+      "longitude": 4.3632
+    }
+  },
+  {
+    "id": 8,
+    "naam": "Brussel-Zuidstation",
+    "beschrijving": "Het grootste treinstation van Brussel, met nationale en internationale verbindingen.",
+    "leeftijd": 145,
+    "actief": true,
+    "geboortedatum": "1879-10-01",
+    "profielfoto": "https://voorbeeld.com/brussel/zuidstation.jpg",
+    "status": "treinstation",
+    "hobby's": ["treinreizen", "architectuur bewonderen"],
+    "locatie": {
+      "id": 108,
+      "adres": "Avenue Fonsny 47B, 1060 Bruxelles, Belgium",
+      "latitude": 50.8356,
+      "longitude": 4.3353
+    }
+  },
+  {
+    "id": 9,
+    "naam": "Koninklijke Musea voor Schone Kunsten van België",
+    "beschrijving": "Een museumcomplex met diverse kunstcollecties, waaronder schilderijen, beeldhouwwerken en tekeningen.",
+    "leeftijd": 221,
+    "actief": true,
+    "geboortedatum": "1801-11-28",
+    "profielfoto": "https://voorbeeld.com/brussel/kmskb.jpg",
+    "status": "kunstmuseum",
+    "hobby's": ["kunst bekijken", "cultuur waarderen"],
+    "locatie": {
+      "id": 109,
+      "adres": "Regentschapstraat 3, 1000 Brussel, Belgium",
+      "latitude": 50.8420,
+      "longitude": 4.3590
+    }
+  },
+  {
+    "id": 10,
+    "naam": "Mini-Europa",
+    "beschrijving": "Een park met miniaturen van beroemde Europese monumenten en gebouwen.",
+    "leeftijd": 31,
+    "actief": true,
+    "geboortedatum": "1993-06-15",
+    "profielfoto": "https://voorbeeld.com/brussel/mini_europa.jpg",
+    "status": "toeristische attractie",
+    "hobby's": ["miniaturen bewonderen", "toerisme"],
+    "locatie": {
+      "id": 110,
+      "adres": "Bruparck, 1020 Bruxelles, Belgium",
+      "latitude": 50.8941,
+      "longitude": 4.3377
+    }
+  }
+]
