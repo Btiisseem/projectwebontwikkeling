@@ -23,7 +23,7 @@
     "leeftijd": 0.5,
     "actief": true,
     "geboortedatum": "2023-01-01",
-    "profielfoto": "https://voorbeeld.com/brussel/grote_markt.jpg",
+    "profielfoto": "https://raw.githubusercontent.com/Btiisseem/projectwebontwikkeling/main/webontwikkelingproject/2.jpg",
     "status": "historisch plein",
     "hobby's": ["rondwandelen", "historie ontdekken"],
     "locatie": {
